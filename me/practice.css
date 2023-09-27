@@ -1,0 +1,57 @@
+h2 {
+    color: palevioletred;
+    text-decoration: dashed;
+    text-decoration-line: underline;
+    text-decoration-color: hsl(355, 100%, 50%);
+    text-decoration-style: dotted;
+    text-decoration-thickness: 4px;
+}
+#friend {
+    color: green;
+}
+#people {
+    color: purple;
+}
+p {
+    color: violet;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+}
+#latest { 
+    color: white;
+    background-color: indigo; 
+}
+.navigation { 
+    margin: 2px;
+}
+#blog a {
+    color: chartreuse;
+}
+h1 {
+    color: rgb(18, 128, 169);
+    text-transform: uppercase;
+}
+h2 {
+    color: hsl(87%, 50%, 100%);
+}
+#market td {
+    color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#smiles {
+    display: inline;
+}
+.parent {
+    border: 4px solid rgb(255, 0, 153);
+}
+.child {
+    width: 50%;
+    padding: 20px;
+    border: 4px solid rgb(128, 36, 0);
+    margin: auto;
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+}
